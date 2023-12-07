@@ -1,0 +1,22 @@
+#quiz-container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.question {
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#result-container {
+    margin-top: 20px;
+}
+
+#result-image {
+    max-width: 100%;
+}

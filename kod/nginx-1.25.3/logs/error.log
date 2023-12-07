@@ -1,0 +1,41 @@
+2023/12/05 11:03:21 [error] 20780#6532: *1 CreateFile() "C:\Users\Tina\Desktop\4.godina\nginx-1.25.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/12/05 14:54:27 [emerg] 21952#21476: unknown directive "HTTPS" in C:\Users\Tina\Desktop\4.godina\nginx-1.25.3/conf/nginx.conf:98
+2023/12/05 14:55:41 [notice] 23792#23636: signal process started
+2023/12/05 15:06:13 [warn] 8560#1392: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\Tina\Desktop\4.godina\nginx-1.25.3/conf/nginx.conf:99
+2023/12/05 15:06:13 [notice] 8560#1392: signal process started
+2023/12/05 15:06:14 [warn] 24752#8376: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\Tina\Desktop\4.godina\nginx-1.25.3/conf/nginx.conf:99
+2023/12/05 15:07:31 [notice] 25516#20356: signal process started
+2023/12/05 15:46:08 [error] 17892#21416: *26 CreateFile() "C:\Users\Tina\Desktop\4.godina\nginx-1.25.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/2.0", host: "localhost", referrer: "https://localhost/"
+2023/12/05 16:58:25 [notice] 14504#6632: signal process started
+2023/12/05 17:48:18 [notice] 21996#10640: signal process started
+2023/12/05 17:56:44 [notice] 20380#15444: signal process started
+2023/12/05 18:03:59 [error] 12052#22300: *15 CreateFile() "C:\Users\Tina\Desktop\4.godina\nginx-1.25.3/html/lab4/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/2.0", host: "localhost", referrer: "https://localhost/"
+2023/12/05 18:05:15 [error] 12052#22300: *19 CreateFile() "C:\Users\Tina\Desktop\4.godina\nginx-1.25.3/html/lab4/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/2.0", host: "localhost"
+2023/12/05 18:27:06 [error] 12052#22300: *23 CreateFile() "C:\Users\Tina\Desktop\4.godina\nginx-1.25.3/html/lab4/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/2.0", host: "localhost"
+2023/12/06 09:49:44 [notice] 9184#15396: signal process started
+2023/12/06 09:49:49 [crit] 11420#624: *27 GetFileAttributesEx() "C:\Users\Tina\Desktop\4.godina
+ginx-1.25.3\html\lab4" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/2.0", host: "localhost"
+2023/12/06 09:49:51 [crit] 11420#624: *27 GetFileAttributesEx() "C:\Users\Tina\Desktop\4.godina
+ginx-1.25.3\html\lab4" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/2.0", host: "localhost"
+2023/12/06 09:50:09 [notice] 19248#17548: signal process started
+2023/12/06 10:00:43 [notice] 24256#6500: signal process started
+2023/12/06 10:00:52 [error] 7896#24968: *35 directory index of "C:/Users/Tina/Desktop/4.godina/nginx-1.25.3/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/2.0", host: "localhost"
+2023/12/06 10:02:45 [notice] 25452#17044: signal process started
+2023/12/06 10:02:49 [error] 1560#23684: *39 directory index of "C:/Users/Tina/Desktop/4.godina/nginx-1.25.3/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/2.0", host: "localhost"
+2023/12/06 10:02:54 [error] 1560#23684: *39 directory index of "C:/Users/Tina/Desktop/4.godina/nginx-1.25.3/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/2.0", host: "localhost"
+2023/12/06 10:02:55 [error] 1560#23684: *39 directory index of "C:/Users/Tina/Desktop/4.godina/nginx-1.25.3/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/2.0", host: "localhost"
+2023/12/06 10:03:38 [error] 1560#23684: *39 directory index of "C:/Users/Tina/Desktop/4.godina/nginx-1.25.3/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/2.0", host: "localhost"
+2023/12/06 10:04:21 [notice] 8320#22868: signal process started
+2023/12/06 10:04:27 [error] 15028#9568: *43 directory index of "C:/Users/Tina/Desktop/4.godina/nginx-1.25.3/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/2.0", host: "localhost"
+2023/12/06 10:06:47 [notice] 12696#11144: signal process started
+2023/12/06 10:09:08 [notice] 17856#1356: signal process started
+2023/12/06 14:42:51 [error] 9724#23804: *103 CreateFile() "C:\Users\Tina\Desktop\4.godina\nginx-1.25.3/html/lab4/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/2.0", host: "localhost", referrer: "https://www.youtube.com/"
+2023/12/07 14:40:43 [notice] 19588#25520: signal process started
+2023/12/07 14:42:54 [notice] 6548#26532: signal process started
+2023/12/07 14:47:57 [notice] 4868#5372: signal process started
+2023/12/07 14:49:07 [notice] 11344#24572: signal process started
+2023/12/07 14:59:18 [notice] 18884#21192: signal process started
+2023/12/07 15:05:53 [notice] 23600#12472: signal process started
+2023/12/07 15:10:21 [notice] 25656#7340: signal process started
+2023/12/07 15:16:51 [notice] 4636#25176: signal process started
+2023/12/07 15:25:18 [notice] 19376#2888: signal process started

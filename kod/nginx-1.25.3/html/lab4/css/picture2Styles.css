@@ -1,0 +1,14 @@
+.image-container2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+figure {
+    width: 100%;
+    margin-bottom: 20px;
+}
+.image-container2 img {
+    width: 100%; 
+    margin-bottom: 20px; 
+}
